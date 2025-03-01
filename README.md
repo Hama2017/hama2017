@@ -10,6 +10,32 @@
   </a>
 </div>
 
+## 🔥 Mes Projets Phares 🔥
+
+<div align="center">
+  <a href="https://github.com/Hama2017/WatchMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=WatchMate&theme=tokyonight" alt="WatchMate" />
+  </a>
+  <a href="https://github.com/Hama2017/projet-SpaceX-Lancement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=projet-SpaceX-Lancement&theme=tokyonight" alt="Projet SpaceX Lancement" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Hama2017/Analyse-Random-C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=Analyse-Random-C&theme=tokyonight" alt="Analyse Random C" />
+  </a>
+  <a href="https://github.com/Hama2017/projet-python-flask-gestion-contact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=projet-python-flask-gestion-contact&theme=tokyonight" alt="Projet Python Flask Gestion Contact" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Hama2017/Squadro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=Squadro&theme=tokyonight" alt="Squadro" />
+  </a>
+</div>
+
 ## À propos de moi ✨
 
 - 🎓 Étudiant en Licence 3 Informatique à l'Université du Havre
@@ -17,7 +43,7 @@
 - 🚀 Amateur d'espace, de fusées et d'exploration spatiale
 - 🌟 Fervent défenseur de l'open source et de l'éducation numérique
 - 🌱 Bénévole dans une association d'appui à la science et à la technologie
-
+- 📝 J'anime des webinaires gratuits et des sessions de sensibilisation au numérique
 
 ## Mes compétences 🚀
 
@@ -70,13 +96,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hama2017&theme=tokyonight" alt="Activité GitHub" />
 </p>
 
-## Projets récents 🛠️
+## Ce que je suis en train d'apprendre 🌱
 
-<p align="center">
-  <a href="https://github.com/Hama2017/projet-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=projet-web&theme=tokyonight" alt="Projet Web" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
 
 ## Contributions 🌱
 
