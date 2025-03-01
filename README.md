@@ -43,7 +43,6 @@
 - 🚀 Amateur d'espace, de fusées et d'exploration spatiale
 - 🌟 Fervent défenseur de l'open source et de l'éducation numérique
 - 🌱 Bénévole dans une association d'appui à la science et à la technologie
-- 📝 J'anime des webinaires gratuits et des sessions de sensibilisation au numérique
 
 ## Mes compétences 🚀
 
