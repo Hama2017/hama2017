@@ -12,23 +12,19 @@
 
 ## 🔥 Mes Projets Phares 🔥
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/Hama2017/WatchMate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=WatchMate&theme=tokyonight" alt="WatchMate" />
   </a>
   <a href="https://github.com/Hama2017/projet-SpaceX-Lancement">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=projet-SpaceX-Lancement&theme=tokyonight" alt="Projet SpaceX Lancement" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/Hama2017/Analyse-Random-C">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=Analyse-Random-C&theme=tokyonight" alt="Analyse Random C" />
   </a>
   <a href="https://github.com/Hama2017/projet-python-flask-gestion-contact">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=projet-python-flask-gestion-contact&theme=tokyonight" alt="Projet Python Flask Gestion Contact" />
   </a>
-</div>
-<div align="center">
   <a href="https://github.com/Hama2017/Squadro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hama2017&repo=Squadro&theme=tokyonight" alt="Squadro" />
   </a>
