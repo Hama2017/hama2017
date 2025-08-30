@@ -35,7 +35,7 @@
 
 ## À propos de moi ✨
 
-- 🎓 Étudiant en Licence 3 Informatique à l'Université du Havre
+- 🎓 Étudiant en Master Informatique 
 - 💻 Passionné de développement web depuis l'âge de 16 ans
 - 🚀 Amateur d'espace, de fusées et d'exploration spatiale
 - 🌟 Fervent défenseur de l'open source et de l'éducation numérique
