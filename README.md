@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Hama2017">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Étudiant+en+L3+Informatique;Passionné+d'espace+et+de+fusées;Défenseur+de+l'open+source;Bénévole+en+éducation+numérique" alt="Animation de texte" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Étudiant+en+Master+Informatique;Passionné+d'espace+et+de+fusées;Défenseur+de+l'open+source;Bénévole+en+éducation+numérique" alt="Animation de texte" />
   </a>
 </div>
 
